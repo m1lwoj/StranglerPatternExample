@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StranglerPatternExample", "StranglerPatternExample\StranglerPatternExample.csproj", "{D511CE5F-3170-45AC-ABB5-F5186BCBB9BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyCode", "LegacyCode\LegacyCode.csproj", "{5C57611E-D6C0-4E71-81BF-F7F405842133}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D511CE5F-3170-45AC-ABB5-F5186BCBB9BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D511CE5F-3170-45AC-ABB5-F5186BCBB9BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D511CE5F-3170-45AC-ABB5-F5186BCBB9BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D511CE5F-3170-45AC-ABB5-F5186BCBB9BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C57611E-D6C0-4E71-81BF-F7F405842133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C57611E-D6C0-4E71-81BF-F7F405842133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C57611E-D6C0-4E71-81BF-F7F405842133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C57611E-D6C0-4E71-81BF-F7F405842133}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F72273FC-128C-48EF-BB03-E95884996959}
+	EndGlobalSection
+EndGlobal
